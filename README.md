@@ -9,7 +9,7 @@ The simulator works by loading a 3D model of the room (in STL format) and simula
 
 The following diagram illustrates the basic steps of the simulation process:
 
-<img src="./figures/overview.png" width="50%" >
+<img src="./figures/overview.png" width="80%" >
 
 ## Requirements
 
@@ -65,4 +65,4 @@ This code runs a simulation with a single emitter in an L-shaped room, showing t
 
 Result : 
 
-<img src="./figures/result.png" width="50%" >
+<img src="./figures/result.png" width="80%" >
