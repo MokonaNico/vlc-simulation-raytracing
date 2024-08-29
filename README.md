@@ -1,4 +1,7 @@
 # Visible Light Communication Simulation Using Raytracing Method
+
+![DOI badge](https://zenodo.org/badge/DOI/10.5281/zenodo.13516110.svg)
+
 A Python-based visible light communication simulator using ray tracing methods.
 
 ## Description
